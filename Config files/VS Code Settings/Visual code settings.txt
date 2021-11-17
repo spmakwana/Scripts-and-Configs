@@ -1,0 +1,32 @@
+{
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.insertSpaces": false,
+    "editor.minimap.enabled": false,
+    "zenMode.centerLayout": false,
+    "editor.tabSize": 2,
+    "html.format.wrapLineLength": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "window.zoomLevel": 0,
+    "editor.fontSize": 16,
+    "polacode.shadow": "rgba(0, 0, 0, 0) 0px 0px 5px 0px",
+    "terminal.integrated.fontWeightBold": "normal",
+    "polacode.backgroundColor": "#eeeeee",
+    "editor.lineHeight": 28,
+    "editor.fontWeight": "500",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "lucy",
+    "bracket-pair-colorizer-2.colors": [
+        "#8e98e6",
+        "#e3cf65",
+        "#fb7d9b"
+    ],
+    "php.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+}

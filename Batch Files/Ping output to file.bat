@@ -1,0 +1,7 @@
+@ECHO OFF
+set IPADDRESS=www.google.com
+set INTERVAL=30
+:PINGINTERVAL
+ping %IPADDRESS% -n 1 >> filename.txt
+timeout %INTERVAL%
+GOTO PINGINTERVAL

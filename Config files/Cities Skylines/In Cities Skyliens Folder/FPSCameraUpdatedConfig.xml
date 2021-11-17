@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cameraMoveSpeed>8.5</cameraMoveSpeed>
+  <cameraRotationSensitivity>1</cameraRotationSensitivity>
+  <snapToGround>false</snapToGround>
+  <groundOffset>1.1</groundOffset>
+  <toggleFPSCameraHotkey>Tab</toggleFPSCameraHotkey>
+  <showMouseHotkey>None</showMouseHotkey>
+  <goFasterHotKey>CapsLock</goFasterHotKey>
+  <goFasterSpeedMultiplier>4</goFasterSpeedMultiplier>
+  <invertYAxis>false</invertYAxis>
+  <limitSpeedGround>false</limitSpeedGround>
+  <fieldOfView>45</fieldOfView>
+  <vFieldOfView>45</vFieldOfView>
+  <preventClipGround>true</preventClipGround>
+  <animateTransitions>true</animateTransitions>
+  <animationSpeed>1</animationSpeed>
+  <integrateHideUI>true</integrateHideUI>
+  <walkthroughModeTimer>25</walkthroughModeTimer>
+  <walkthroughModeManual>false</walkthroughModeManual>
+  <allowUserOffsetInVehicleCitizenMode>false</allowUserOffsetInVehicleCitizenMode>
+  <vehicleCameraOffsetX>0</vehicleCameraOffsetX>
+  <vehicleCameraOffsetY>0</vehicleCameraOffsetY>
+  <vehicleCameraOffsetZ>0</vehicleCameraOffsetZ>
+  <enableDOF>false</enableDOF>
+  <alwaysFrontVehicle>true</alwaysFrontVehicle>
+  <position>
+    <x>1867</x>
+    <y>80</y>
+    <z>0</z>
+  </position>
+  <displaySpeed>false</displaySpeed>
+  <isMPH>false</isMPH>
+  <cameraMoveLeft>A</cameraMoveLeft>
+  <cameraMoveRight>D</cameraMoveRight>
+  <cameraMoveForward>W</cameraMoveForward>
+  <cameraMoveBackward>S</cameraMoveBackward>
+  <cameraZoomCloser>Z</cameraZoomCloser>
+  <cameraZoomAway>X</cameraZoomAway>
+  <cameraRotateLeft>LeftShift</cameraRotateLeft>
+  <cameraRotateRight>RightShift</cameraRotateRight>
+</Configuration>

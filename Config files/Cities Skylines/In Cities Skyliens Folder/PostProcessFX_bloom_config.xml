@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BloomConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bloomEnabled>true</bloomEnabled>
+  <intensity>0.5</intensity>
+  <threshhold>0.8</threshhold>
+  <blurIterations>5</blurIterations>
+  <blurSpread>0.2</blurSpread>
+  <lensflareEnabled>false</lensflareEnabled>
+  <lensflareIntensity>0.2</lensflareIntensity>
+  <lensflareThreshold>0.2</lensflareThreshold>
+  <lensflareStretchWidth>0.5</lensflareStretchWidth>
+  <lensflareSaturation>0.5</lensflareSaturation>
+  <lensflareRotation>0</lensflareRotation>
+  <lensflareBlurIterations>1</lensflareBlurIterations>
+  <lensFlareStyle>Anamorphic</lensFlareStyle>
+  <lensflareSun>false</lensflareSun>
+</BloomConfig>

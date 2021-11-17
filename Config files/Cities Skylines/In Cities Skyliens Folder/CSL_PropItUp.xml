@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <version>1.4.4</version>
+  <keyboardshortcut>1</keyboardshortcut>
+  <buttonposition>
+    <x>-9999</x>
+    <y>-9999</y>
+    <z>-9999</z>
+  </buttonposition>
+  <enable_runtimereload>true</enable_runtimereload>
+  <enable_globalfreestanding>true</enable_globalfreestanding>
+  <enable_applyglobalonload>true</enable_applyglobalonload>
+  <enable_applybuildingonload>true</enable_applybuildingonload>
+  <enable_extrememode>true</enable_extrememode>
+  <enable_debug>false</enable_debug>
+  <GlobalTreeReplacements>
+    <TreeReplacement type="tree" original="Beech01low" replacement_name="963853793.Lp5 full canopy _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Alder01" replacement_name="931378862.Generic Tree Large 2_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Tree2" replacement_name="912875174.Small Oak _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Corsican Pine 01" replacement_name="1646568214.Pine Tree_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Bush01" replacement_name="904202320.Leafy Street Tree _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Tree2variant" replacement_name="931378862.Generic Tree tiny_Data" is_visible="true" />
+  </GlobalTreeReplacements>
+  <GlobalBuildingTreeReplacements>
+    <TreeReplacement type="tree" original="Tree2" replacement_name="912875174.Small Oak _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Beech01low" replacement_name="963853793.Lp5 full canopy _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Bush01" replacement_name="904202320.Leafy Street Tree _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Alder01" replacement_name="931378862.Generic Tree Large 2_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Corsican Pine 01" replacement_name="1646568214.Pine Tree_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Tree2variant" replacement_name="931378862.Generic Tree tiny_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Sugar Maple 01" replacement_name="793658461.Sugar Maple Mix_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="793658461.Sugar Maple Red_Data" replacement_name="793658461.Sugar Maple_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="Bush02" replacement_name="953015195.Regular bush broad _Data" is_visible="true" />
+    <TreeReplacement type="tree" original="793658461.Sugar Maple Mix_Data" replacement_name="793658461.Sugar Maple Gold_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="843982695.Stone Pine Medium_Data" replacement_name="793658461.Sugar Maple Gold_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="793658461.Sugar Maple Gold_Data" replacement_name="843982695.Stone Pine Old_Data" is_visible="true" />
+    <TreeReplacement type="tree" original="843982695.Stone Pine Old_Data" replacement_name="Tree3variant" is_visible="true" />
+    <TreeReplacement type="tree" original="Tree3variant" replacement_name="942199628.Liquid Amber_Data" is_visible="true" />
+  </GlobalBuildingTreeReplacements>
+  <Buildings>
+    <Building name="Amusement Park Main Gate">
+      <PrefabReplacements>
+        <PrefabReplacement type="prop" original="Parking Spaces 01" replacement_name="1687498640.Road Stain Decal1_Data" is_visible="true" />
+        <PrefabReplacement type="prop" original="Parking Spaces 02" replacement_name="1687498640.Road Stain Decal1_Data" is_visible="true" />
+      </PrefabReplacements>
+    </Building>
+  </Buildings>
+</Configuration>

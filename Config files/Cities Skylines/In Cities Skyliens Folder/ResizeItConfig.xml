@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModConfig>
+  <ConfigUpdated>false</ConfigUpdated>
+  <DefaultMode>Expanded mode</DefaultMode>
+  <FastSwitchingEnabled>true</FastSwitchingEnabled>
+  <ControlPanelEnabled>false</ControlPanelEnabled>
+  <ControlPanelAlignment>Left</ControlPanelAlignment>
+  <ControlPanelOpacity>1</ControlPanelOpacity>
+  <ControlPanelFastSwitchingEnabled>true</ControlPanelFastSwitchingEnabled>
+  <ScalingExpanded>1</ScalingExpanded>
+  <RowsExpanded>2</RowsExpanded>
+  <ColumnsExpanded>10</ColumnsExpanded>
+  <ScrollDirectionExpanded>Vertically</ScrollDirectionExpanded>
+  <AlignmentExpanded>Fixed</AlignmentExpanded>
+  <HorizontalOffsetExpanded>0</HorizontalOffsetExpanded>
+  <VerticalOffsetExpanded>0</VerticalOffsetExpanded>
+  <OpacityExpanded>1</OpacityExpanded>
+  <ScalingCompressed>1</ScalingCompressed>
+  <RowsCompressed>1</RowsCompressed>
+  <ColumnsCompressed>7</ColumnsCompressed>
+  <ScrollDirectionCompressed>Horizontally</ScrollDirectionCompressed>
+  <AlignmentCompressed>Fixed</AlignmentCompressed>
+  <HorizontalOffsetCompressed>0</HorizontalOffsetCompressed>
+  <VerticalOffsetCompressed>0</VerticalOffsetCompressed>
+  <OpacityCompressed>1</OpacityCompressed>
+</ModConfig>

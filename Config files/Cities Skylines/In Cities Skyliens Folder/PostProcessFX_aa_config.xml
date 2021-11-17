@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AntiAliasingConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mode>Disabled</mode>
+  <fxaaQuality>2</fxaaQuality>
+  <smaaEdgeMethod>Color</smaaEdgeMethod>
+  <smaaQuality>Medium</smaaQuality>
+  <smaaTemporal>false</smaaTemporal>
+  <smaaPredication>true</smaaPredication>
+</AntiAliasingConfig>
